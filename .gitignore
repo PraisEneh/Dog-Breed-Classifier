@@ -1,5 +1,6 @@
 *logs*
 train
+models
 test
 valid
 *.zip
