@@ -1,0 +1,1 @@
+models/finetunes/frozen_finetunes/FROZEN_FT2_EPOCH-10_LR-0.0001_RR-30_ZR-0.3_FL-5_FROZEN_FT_RR-30-ZR-0.4-LR-0.0001-LR-0.001-CL-6-Drop-0.2-FSize-512-07_28_42.h5 filter=lfs diff=lfs merge=lfs -text
