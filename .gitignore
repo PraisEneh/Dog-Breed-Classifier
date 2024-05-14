@@ -1,0 +1,9 @@
+*logs*
+train
+test
+valid
+*.zip
+*.h5
+results
+old_logs1
+*.csv
